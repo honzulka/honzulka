@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently studying at VUT FIT in Brno.
+
+👉 [Projects Overview](./PROJECTS.md)
+
+Some projects are still under development.
+
 <!--
 **honzulka/honzulka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
