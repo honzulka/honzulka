@@ -1,6 +1,6 @@
 # 🎓 School & Personal Projects Overview
 
-This repository serves as an overview of my academic and personal projects during my studies at Brno University of Technology, Faculty of Information Technology.
+This file serves as an overview of my academic and personal projects during my studies at Brno University of Technology, Faculty of Information Technology.
 
 ---
 
