@@ -111,10 +111,13 @@ Ongoing...
 - [Projects](https://github.com/honzulka/Small_Projects)
 
 ### Leet Codes
-- [LeetCodes](https://github.com/honzulka/LeetCodes)
+- [LeetCodes](https://github.com/honzulka/LeetCodes) - Few of my leet codes completions
 
 ### BitTorrent Client
 - [BitTorrent](https://github.com/honzulka/BitTorrentClient) - In progress (unfinished)
+
+### QGames
+- [Qgames](https://github.com/honzulka/QGames) - Simple game written in python using quantum concepts
 
 
 ---
